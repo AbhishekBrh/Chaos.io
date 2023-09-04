@@ -648,8 +648,8 @@ footer .follow i:hover, footer a:hover{
     #prodetails .single-pro-details{
        min-width: 100%;
     }
-    #newsletter{
-        width: 103%
+    #newsletter {
+        min-width: 192%;
     }
     /* blog page */
     #blog {
